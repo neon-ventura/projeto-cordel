@@ -90,6 +90,7 @@ section > p{
     display: inline-block;
     padding: 5px;
     text-shadow: 1px 1px 0px black;
+    border-radius: 20px;
 }
 
 #img01{
